@@ -9,14 +9,14 @@
       "displayDenom": "SSt",
       "baseDenom": "uSSt",
       "decimals": 18,
-      "logo": "/logos/senimamsistem_1774630-1.png",
+      "logo": "/senimamsistem_1774630-1/076cd83c620de57c3e24443fe45eee06.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/senimamsistem_1774630-1.png",
+  "logo": "/senimamsistem_1774630-1/076cd83c620de57c3e24443fe45eee06.jpg",
   "ibc": {
     "hubChannel": "channel-7736",
     "channel": "channel-0",
